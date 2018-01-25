@@ -1,3 +1,4 @@
+/* Global */
 *{
 	margin:0;
 	padding:0;
@@ -6,8 +7,24 @@
 body{
 	background-color: #F8F8F8;
 }
+a{
+	text-decoration: none;
+}
+h2{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+/* Navbar */
 nav{
-	background-color: transparents;
+	background-color: transparent;
+	position: fixed;
+	top: 0;
+	width: 100%;
+}
+nav div{
+	display: flex;
+	justify-content: space-between;
 }
 nav ul{
 	list-style-type:none;
@@ -27,8 +44,14 @@ nav a:hover{
 nav ul{
 	display:flex;
 }
+.scrolled{
+	color: black;
+	background-color: white;
+}
+
+/* Header */
 header{
-	background-image: url("../img/header.jpg");
+	background-image: url("../img/header_blur.png");
 	background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -38,7 +61,10 @@ header{
 	padding-bottom: 4em;
 	font-weight: bold;
 	font-size: 60px;
+	overflow: auto;
+	position: relative;
 }
+
 .text-center{
 	text-align: center;
 }
@@ -46,32 +72,22 @@ header{
 	display: flex;
 	justify-content: space-between;
 }
-h2{
-	margin-top: 20px;
-	margin-bottom: 20px;
-}
+
 .flex-center{
 	display: flex;
 	justify-content: center;
 	align-items: center;
 }
-.fixed-top{
-	position: fixed;
-	top: 0;
-	width: 100%;
-}
-.skill{
-	width: 100px;
-	height: 100px;
-}
 #asterisk{
 	font-size: 10px;
 	margin-top: 30px;
 }
-.scrolled{
-	color: black;
-	background-color: white;
+#skillset div img{
+	width: 100px;
+	height: 100px;
 }
-a{
-	text-decoration: none;
+#skillset{
+	text-align: center;
 }
+
+
