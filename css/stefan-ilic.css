@@ -222,3 +222,36 @@ header{
 	  left: 0%;
 	}
   }
+
+  /* Contact */
+
+#contact{
+	text-align: center;
+}
+#contact div a{
+	padding: 15px;
+	font-size: 30px;
+	color: white;
+	display: inline-block;
+	width: 500px;
+	border-radius: 10px 10px 10px 10px;
+}
+#contact div{
+	margin: 20px;
+}
+
+.github{
+	background-color: #24292E;
+}
+.twitter{
+	background-color: #1DA1F2;
+}
+.facebook{
+	background-color: #4867AA;
+}
+.mail{
+	background-color: #D54937;
+}
+.paypal{
+	background-color: #0070BA;
+}
