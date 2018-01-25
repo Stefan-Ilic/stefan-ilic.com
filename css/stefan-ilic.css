@@ -62,8 +62,35 @@ header{
 	font-weight: bold;
 	font-size: 60px;
 	overflow: auto;
-	position: relative;
 }
+
+/* Skillset */
+#skillset div img{
+	width: 100px;
+	height: 100px;
+}
+#skillset{
+	text-align: center;
+}
+#skillset div{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#skillset a{
+	background-color: #327FC7;
+	color: white;
+	padding: 10px;
+	font-size: 20px;
+	border-radius: 10px 10px 10px 10px;
+	margin-top: 30px;
+}
+#skillset a:hover{
+	background-color: #5BC0DE;
+}
+
+
+
 
 .text-center{
 	text-align: center;
@@ -82,12 +109,6 @@ header{
 	font-size: 10px;
 	margin-top: 30px;
 }
-#skillset div img{
-	width: 100px;
-	height: 100px;
-}
-#skillset{
-	text-align: center;
-}
+
 
 
