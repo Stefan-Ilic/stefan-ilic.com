@@ -23,6 +23,7 @@ nav{
 	position: fixed;
 	top: 0;
 	width: 100%;
+	z-index: 100;
 }
 nav div{
 	display: flex;
@@ -47,8 +48,8 @@ nav ul{
 	display:flex;
 }
 .scrolled{
-	color: black;
-	background-color: white;
+	color: white;
+	background-color: #0056E0;
 }
 
 /* Header */
