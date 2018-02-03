@@ -15,6 +15,7 @@ h1{
 	margin-top: 50px;
 	margin-bottom: 50px;
 	font-size: 50px;
+	text-align: center;
 }
 
 /* Navbar */
@@ -49,7 +50,7 @@ nav ul{
 }
 .scrolled{
 	color: white;
-	background-color: #0056E0;
+	background-color: #327FC7;
 }
 
 /* Header */
@@ -255,4 +256,10 @@ header{
 }
 .paypal{
 	background-color: #0070BA;
+}
+
+/* Star-Rating */
+
+.checked {
+	color: orange;
 }
