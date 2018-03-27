@@ -1,0 +1,37 @@
+h1, h2, h3, li, p {
+	font-family: 'Helvetica', 'Arial', sans-serif;
+	color: #24292E;
+}
+
+li, p {
+	font-size: 1.3em;
+}
+
+h1, h2, h3 {
+	font-weight: bold;
+	color: #224466;
+}
+
+li {
+	margin-bottom: 0.5em;
+}
+
+code, .remark-code-line, .remark-code {
+	background-color: #F6F8FA !important;
+}
+
+code {
+	border: 1px solid #999999;
+}
+
+img {
+	max-width: 100%;
+}
+
+.huge {
+	font-size: 15em;
+}
+
+.mjx-char {
+	font-size: 1.3em;
+}
