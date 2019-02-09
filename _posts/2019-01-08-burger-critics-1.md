@@ -14,7 +14,7 @@ Let me make one thing clear: this is a developer's blog. That being said, let's 
 
  Yes, they have a [website](http://www.burgersbar.at/index.php), but no https and they display their **PHP extensions in the url**.
 
- ![Appropriate reaction to PHP](images/constanza-disgusting.png)
+ ![Appropriate reaction to PHP](/images/constanza-disgusting.png)
 
 # Score: 76.99
 
