@@ -8,7 +8,7 @@ Let me make one thing clear: this is a developer's blog. That being said, let's 
 
 # Burger's Bar
 
- * **Restaurant:** _Burger's Bar,
+ * **Restaurant:** Burger's Bar,
  * **Address:** Vorgartenstrasse 204, A-1020 Vienna
  * **Date:** 2019-01-08
 
