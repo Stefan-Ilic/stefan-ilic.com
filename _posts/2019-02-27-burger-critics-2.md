@@ -77,7 +77,7 @@ That's not too bad but would've been happy to see waffles and pancakes.
 
 ## Taste of Desserts Score: 6,60
 
-I have a huge sweet tooth, but I quit most sugar a few months ago, meaning the burger nights out are always special for me in that regard. The problem is that because of by abstinence, every dessert tastes like heaven, and I need to go deep inside me and evaluate if it was really that tasty. That being said, I do believe their brownie and ice cream are worth having, so knock yourselves out. Friend/enemy Marcel took a different route and ordered the banana milkshake, and he gave it 8 points so it must be good, but the ordered it because he couldn't stomach a _real_ dessert, so his opinion doesn't count.
+I have a huge sweet tooth, but I quit most sugar a few months ago, meaning the burger nights out are always special for me in that regard. The problem is that because of my abstinence, every dessert tastes like heaven, and I need to go deep inside me and evaluate if it was really that tasty. That being said, I do believe their brownie and ice cream are worth having, so knock yourselves out. Friend/enemy Marcel took a different route and ordered the banana milkshake, and he gave it 8 points so it must be good, but the ordered it because he couldn't stomach a _real_ dessert, so his opinion doesn't count.
 
 ## Atmosphere Score: 5,80
 
