@@ -89,12 +89,12 @@ If you live in Vienna, you should definitely go check it out to experience it on
 
 # Our Burgers
 
-![My Chilli Cheeseburger](images(tgi-stefan.jpg)
+![My Chilli Cheeseburger](/images/tgi-stefan.jpg)
 
-![Marcel's Devastator with Japalenos](images(tgi-marcel.jpg)
+![Marcel's Devastator with Japalenos](/images/tgi-marcel.jpg)
 
-![Ralph's Wingman Burger](images(tgi-ralph.jpg)
+![Ralph's Wingman Burger](/images/tgi-ralph.jpg)
 
-![Michi's Hangover Burger](images(tgi-michi.jpg)
+![Michi's Hangover Burger](/images/tgi-michi.jpg)
 
-![Ali's Devastator](images(tgi-ali.jpg)
+![Ali's Devastator](/images/tgi-ali.jpg)
