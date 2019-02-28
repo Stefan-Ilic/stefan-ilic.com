@@ -12,7 +12,7 @@ For our friend's in the US, _TGI Friday's_ is probably nothing special, but for 
  * **Address:** Schubertring 18, A-1010 Vienna
  * **Date:** 2019-02-19
 
- They have a [website](http://www.burgersbar.at/index.php), and it seems really nice at first (they show pictures of the meals, which is fantastic), but a closer look reveals some serious problems. While they do use the [Bookatable](https://www.bookatable.at/) online booking service, they **do not provide SSL encryption**, meaning your reservation data is being transmitted in plain text. What's really funny about that, however, is that apparently, they didn't get my reservation, although I showed them the booking confirmation. That means point deductions in service, more on that later.
+ They have a [website](http://tgifridays.at/), and it seems really nice at first (they show pictures of the meals, which is fantastic), but a closer look reveals some serious problems. While they do use the [Bookatable](https://www.bookatable.at/) online booking service, they **do not provide SSL encryption**, meaning your reservation data is being transmitted in plain text. What's really funny about that, however, is that apparently, they didn't get my reservation, although I showed them the booking confirmation. That means point deductions in service, more on that later.
 
 # Score: 68,49
 
