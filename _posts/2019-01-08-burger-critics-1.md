@@ -1,7 +1,10 @@
 ---
 layout: post
-title: "The Burger Critics #1: Dawn of the Burger"
-image: "dawn.jpg"
+title:  "The Burger Critics #1: Dawn of the Burger"
+author: stefan
+categories: [ Food, Burger Critics ]
+image: assets/images/dawn.jpg
+comments: false
 ---
 
 Let me make one thing clear: this is a developer's blog. That being said, let's talk about food. A few (developer) buddies of mine and I decided to go on a quest to find the best burger ever. This is the first installment of the *Burger Critics* series and I couldn't be more excited, which is kind of sad but whatever.  
@@ -14,7 +17,7 @@ Let me make one thing clear: this is a developer's blog. That being said, let's 
 
  Yes, they have a [website](http://www.burgersbar.at/index.php), but no https and they display their **PHP extensions in the url**.
 
- ![Appropriate reaction to PHP](/images/constanza-disgusting.png)
+ ![Appropriate reaction to PHP]({{site.baseurl}}/assets/images/constanza-disgusting.png)
 
 # Score: 76.99
 

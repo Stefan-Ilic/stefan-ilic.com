@@ -1,7 +1,10 @@
 ---
 layout: post
-title: "The Burger Critics #2: It's Friday's Friday's"
-image: "fridays.png"
+title:  "The Burger Critics #2: It's Friday's Friday's"
+author: stefan
+categories: [ Food, Burger Critics ]
+image: assets/images/friday.jpg
+comments: false
 ---
 
 For our friend's in the US, _TGI Friday's_ is probably nothing special, but for us euros, it is surprisingly rare to find one of those. In fact, the Vienna TGI Friday's is the only one in the entire German language area, that includes Germany, Switzerland, and Austria. Is it any good, though? Let's find out.
@@ -89,12 +92,12 @@ If you live in Vienna, you should definitely go check it out to experience it on
 
 # Our Burgers
 
-![My Chilli Cheeseburger](/images/tgi-stefan.jpg)
+![My Chilli Cheeseburger]({{site.baseurl}}/assets/images/tgi-stefan.jpg)
 
-![Marcel's Devastator with Japalenos](/images/tgi-marcel.jpg)
+![Marcel's Devastator with Japalenos]({{site.baseurl}}/assets/images//tgi-marcel.jpg)
 
-![Ralph's Wingman Burger](/images/tgi-ralph.jpg)
+![Ralph's Wingman Burger]({{site.baseurl}}/assets/images/tgi-ralph.jpg)
 
-![Michi's Hangover Burger](/images/tgi-michi.jpg)
+![Michi's Hangover Burger]({{site.baseurl}}/assets/images/tgi-michi.jpg)
 
-![Ali's Devastator](/images/tgi-ali.jpg)
+![Ali's Devastator]({{site.baseurl}}/assets/images//tgi-ali.jpg)

@@ -1,7 +1,10 @@
 ---
 layout: post
-title: "The Burger Critics #4: Don't call it a comeback"
-image: "sinatra.png"
+title:  "The Burger Critics #4: Don't call it a comeback"
+author: stefan
+categories: [ Food, Burger Critics ]
+image: assets/images/sinatra.jpg
+comments: false
 ---
 
 [I've been here for years](https://www.youtube.com/watch?v=vimZj8HW0Kg). Now that we've got the apology for our absence out of the way let's talk about burgers. Up until this point, the restaurants we chose all had a very, dare I say, "student-friendly" orientation, reflected by their decoration and their prices. This time, it took us to a seemingly more adult-oriented establishment called _Frank's_. You can tell it's an _American_ adult-oriented restaurant because the prices will make you homeless, but more on that later. In addition to my usual super-funny jokes, I decided to hide references to 10 well-known **Frank Sinatra** songs in this review (covers count too). See if you can find them all.
@@ -14,7 +17,7 @@ image: "sinatra.png"
 
 The online reservation was as smooth as can be and certainly top of the heap compared to some other restaurants we have tried. I really can't complain, which, if you know me, is a big deal.
 
-![Grumpy Cat](/images/grumpy.png)
+![Grumpy Cat]({{site.baseurl}}/assets/images/grumpy.png)
 
 # Score: 71.15
 
@@ -30,25 +33,25 @@ Despite the rest of the burger and the overall experience being so great, the br
 
 Again, not great. Actually, below average. Sad. Very Sad.
 
-![Very Sad](/images/very-sad.jpg)
+![Very Sad]({{site.baseurl}}/assets/images/very-sad.jpg)
 
 ## Burger Meat Score: 7.67
 
 Let me make this an easy one:
 
->> Dear Frank's burger meat,
->>
->> You fill my heart with song
->> and let me sing forevermore
->> You are all I long for
->> All I worship and adore
->> In other words, please be true
->> In other words, I love you
->>
->> Love,
->> Stefan
->>
->> PS: This counts as **one** reference.
+> Dear Frank's burger meat,
+>
+> You fill my heart with song
+> and let me sing forevermore
+> You are all I long for
+> All I worship and adore
+> In other words, please be true
+> In other words, I love you
+>
+> Love,
+> Stefan
+>
+> PS: This counts as **one** reference.
 
 ## Selection of Side Dishes Score: 7.17
 
@@ -71,7 +74,7 @@ A truly remarkable selection. This probably had something to do with the fact th
 * Jasmine Rice
 * [Rocket Salad](https://www.dict.cc/?s=rucola)
 
-![Rocket Salad](/images/rocket.jpg)
+![Rocket Salad]({{site.baseurl}}/assets/images/rocket.jpg)
 
 I was especially delighted about the _Fries & Rings_ combo, seeing as most restaurants force you to either decide between one of them or order both and end up with way too many side orders.
 
@@ -79,7 +82,7 @@ I was especially delighted about the _Fries & Rings_ combo, seeing as most resta
 
 The fries were `okay` and I won't utter as much as one additional syllable about them. The onion rings, however, oh boy. The onion-to-ring ratio was simply perfect and made me bite in more than I could chew, literally. Frank's has justly earned the title:
 
-![Lord of the Onion Rings](/images/lord-of-the-onion-rings.png)
+![Lord of the Onion Rings]({{site.baseurl}}/assets/images/lord-of-the-onion-rings.png)
 
 ## Selection of Drinks Score: 5.33
 
@@ -129,7 +132,7 @@ Quite nice, actually.
 
 I already mentioned their homemade vanilla ice cream. While some of the other guys opted for the combinations like the _Pineapple-Lime Pint_, I ordered just a big ice cream serving and ate it all up before these little town blues had all melted away, and I must say it probably was the best vanilla ice cream I had ever eaten. Alas, I favor chocolate above all else and had to give it a 7 instead of an 8. So sue me.
 
-![So Sue Me](/images/sue-me.jpg)
+![So Sue Me]({{site.baseurl}}/assets/images/sue-me.jpg)
 
 ## Atmosphere Score: 6.17
 
@@ -141,6 +144,6 @@ Frank's is a remarkable establishment with good service, a decent selection, and
 
 # Our Burgers
 
-![Burger 1](/images/franks-1.jpg)
-![Burger 2](/images/franks-2.jpg)
-![Burger 3](/images/franks-3.jpg)
+![Burger 1]({{site.baseurl}}/assets/images/franks-1.jpg)
+![Burger 2]({{site.baseurl}}/assets/images/franks-2.jpg)
+![Burger 3]({{site.baseurl}}/assets/images/franks-3.jpg)

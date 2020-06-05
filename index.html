@@ -1,37 +1,36 @@
 ---
 layout: default
+title: Home
 ---
 
-<!-- <div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
+<!-- Posts Index
+================================================== -->
+<section class="recent-posts">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+    <div class="section-title">
 
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
+        <h2><span>Blog Posts</span></h2>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div> -->
+    </div>
 
-{% for post in site.posts %}
-<div class="posts">
-  <h1>
-    <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-  </h1>
-  {% if post.image %}
-  <div class="thumbnail-container">
-    <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ site.baseurl }}/images/{{post.image}}"></a>
-  </div>
-  {% endif %}
-  <p>
-    {{ post.content | strip_html | truncate: 350 }} <a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
-    <span class="post-date">
-      <i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date_to_string }}
-    </span>
-  </p>
+    <div class="row listrecent">
+
+        {% for post in paginator.posts %}
+
+        {% include postbox.html %}
+
+        {% endfor %}
+
+    </div>
+
+</section>
+
+<!-- Pagination
+================================================== -->
+<div class="bottompagination">
+<div class="pointerup"><i class="fa fa-caret-up"></i></div>
+<span class="navigation" role="navigation">
+    {% include pagination.html %}
+</span>
 </div>
-{% endfor %}
+

@@ -1,7 +1,10 @@
 ---
 layout: post
-title: "The Burger Critics #0: Rating the Burgers"
-image: "score.png"
+title:  "The Burger Critics #0: Rating the Burgers"
+author: stefan
+categories: [ Food, Burger Critics ]
+image: assets/images/score.jpg
+comments: false
 ---
 
 As you may or may not know, a few developer buddies of mine and I are trying to find the best burger ever, that includes the overall experience of sitting in the restaurant and eating it. In true developer fashion, we overengineered the rating system. The following post provides insights in the aforementioned rating system.

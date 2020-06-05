@@ -1,7 +1,10 @@
 ---
 layout: post
-title: "The Burger Critics #3: Bovine spongiform encephalopathy"
-image: "mad-cow.png"
+title:  "The Burger Critics #3: Bovine spongiform encephalopathy"
+author: stefan
+categories: [ Food, Burger Critics ]
+image: assets/images/mad-cow.jpg
+comments: false
 ---
 
 If you're running a burger restaurant, you have certain aspects at your disposal to advertise yourself and build your brand. If you remember back in the golden age, McDonald's had an entire roster of mascots including Grimace, the hamburglar and, of course, Ronald McDonald. These characters tried to convey the experience you would have if you visited a McDonald's, they didn't really try to sell the food's taste, and CERTAINLY, they didn't tell you that for your fun and games cows were slaughtered and their corpses were turned into handy patties. No, they did not. But this establishment does, kind of. "Rinderwahn" is the German word for mad cow disease and their entire branding is based on cows. For me, knowing how the sausage is made and perfectly willing to hunt for food if necessary, this is not a huge deal, but if you're looking for a place to take your vegetarian girlfriend while you can still enjoy a huge hunk of meat, maybe keep looking.
@@ -45,7 +48,7 @@ They had
 * Sweet Potato Fries
 * Rocket Salad
 
-![Rocket Salad](https://upload.wikimedia.org/wikipedia/commons/4/41/Space_Shuttle_Columbia_launching.jpg)
+![Rocket Salad]({{site.baseurl}}/assets/images/rocket.jpg)
 
 ## Taste of Side Dishes Score: 6.33
 
@@ -73,7 +76,7 @@ Again, mostly bare minimum, no bitcoin, I believe no Amex and Diner's Club? What
 
 Why are you more expensive than most burger restaurants when you're not better than most burger restaurants?
 
-![Apply Cold Water](/images/cold-water.jpg)
+![Apply Cold Water]({{site.baseurl}}/assets/images/cold-water.jpg)
 
 ## Service Score: 4.50
 
@@ -101,8 +104,8 @@ The burgers were actually not bad, it's a shame everything else couldn't keep up
 
 # Our Burgers
 
-![My Bacon Charlie Burger](/images/rinderwahn/stefan.jpg)
+![My Bacon Charlie Burger]({{site.baseurl}}/assets/images/stefan.jpg)
 
-![Marcel's Scharfe Resi Burger](/images/rinderwahn/marcel.jpg)
+![Marcel's Scharfe Resi Burger]({{site.baseurl}}/assets/images/marcel.jpg)
 
-![Michi's I can't rememver Burger](/images/rinderwahn/michi.jpg)
+![Michi's I can't rememver Burger]({{site.baseurl}}/assets/images/michi.jpg)
